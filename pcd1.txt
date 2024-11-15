@@ -250,7 +250,7 @@ int main() {
 
     return 0;
 }
-
+a+b+c;'
 
 4. optimized 10th:
 #include<stdio.h>
@@ -336,6 +336,18 @@ void main()
 		if(pr[i].l!='\0')
 			printf("%c\t=%s\n",pr[i].l,pr[i].r);
 }
+
+
+a
+10
+b
+20
+c
+a+b
+d
+a+b
+e
+c+d
 
 5. symbol table:
 
